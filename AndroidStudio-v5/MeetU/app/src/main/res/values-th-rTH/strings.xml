@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetU</string>
+    <string name="search">ค้นหา</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="chat_list">พูดคุย</string>
+    <string name="home">หน้าหลัก</string>
+    <string name="profile">โปรไฟล์</string>
+    <string name="users">ผู้ใช้งาน</string>
+    <string name="chat">พูดคุย</string>
+    <string name="delivered">ส่ง</string>
+    <string name="register">สมัครใช้งาน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="email">อีเมล</string>
+    <string name="password">ระหัสผ่าน</string>
+    <string name="forget_password">ลืมระหัสผ่าน? กดตรงนี้</string>
+    <string name="no_account">ยังไม่มีบัญชี? สมัครตรงนี้</string>
+    <string name="have_account">มีบัญชีอยู่แล้ว? เข้าสู่ระบบตรงนี้</string>
+</resources>

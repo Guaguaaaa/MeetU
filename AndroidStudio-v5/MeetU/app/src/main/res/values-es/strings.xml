@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetU</string>
+    <string name="search">Buscar</string>
+    <string name="logout">cerrar sesión</string>
+    <string name="chat_list">Chat List</string>
+    <string name="home">Inicio</string>
+    <string name="profile">Perfil</string>
+    <string name="users">Usuarios</string>
+    <string name="chat">Chats</string>
+    <string name="delivered">Entregado</string>
+    <string name="register">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forget_password">¿Olvidó la contraseña? recuperar</string>
+    <string name="no_account">¿no tienes cuenta? Registrarse</string>
+    <string name="have_account">¿Tienes una cuenta? Iniciar sesión</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">愈见</string>
+
+    <string name="search">搜索</string>
+    <string name="logout">退出登录</string>
+    <string name="chat_list">聊天列表</string>
+    <string name="home">主页</string>
+    <string name="profile">我</string>
+    <string name="users">通讯录</string>
+    <string name="chat">聊天</string>
+    <string name="delivered">已送达</string>
+    <string name="register">注册</string>
+    <string name="login">登陆</string>
+    <string name="email">邮箱</string>
+    <string name="password">密码</string>
+    <string name="forget_password">忘记密码？点我重置</string>
+    <string name="no_account">还没有账号？点我注册</string>
+    <string name="have_account">已经有账号了？点我登陆</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">治療法に会う</string>
+    <string name="search">搜寻</string>
+    <string name="logout">ログアウト</string>
+    <string name="chat_list">リストチャット</string>
+    <string name="home">キーページ</string>
+    <string name="profile">マイページ</string>
+    <string name="users">連絡先</string>
+    <string name="chat">チャット</string>
+    <string name="delivered">配信完了</string>
+    <string name="register">登録</string>
+    <string name="login">ログイン</string>
+    <string name="email">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="forget_password">パスワードをお忘れの方？パスワード照会</string>
+    <string name="no_account">アカウントをお持ちではありませんか？？登録</string>
+    <string name="have_account">あなたはアカウントを持っていませんか？ログイン</string>
+</resources>
